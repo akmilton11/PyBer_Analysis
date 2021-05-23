@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ### Overview of the analysis:
-Using my Python skills and knowledge of Pandas, I’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I’ll create a multiple-line graph that shows the total weekly fares for each city type.
+Using my Python skills and knowledge of Pandas, I created a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I created a multiple-line graph that shows the total weekly fares for each city type.
 
 
 ### Results: Ride-sharing data among the different city types.
