@@ -23,8 +23,11 @@ Lowest:
 
 Dataframe Summary:
 
+![](Resources/Type_Summary.PNG)
 
 Line Graph Summary:
+
+![](Resources/Multiple_Line_Graph.PNG)
 
 ### Three business recommendations to the CEO for addressing any disparities among the city types:
 1. Add more data to your database. The more data - the better the discrepancies we can see between the types.
